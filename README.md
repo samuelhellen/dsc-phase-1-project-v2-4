@@ -14,7 +14,9 @@ IMDB is one of the largest database for information relating to movies and TV se
 Box Office Mojo provides the lifetime highest gross movies and this dataset has been restricted from 2010 to present. This information will be useful to find the top grossing movies and insights we can make from why they are the top gross movies.
 
 The Numbers provides comprehensive records spanning from 1915 to 2020, detailing production budgets, domestic, and worldwide gross box office figures. 
+
 3.DATA ANALYSIS
+
 To ensure quality of our analysis the data had to be cleaned.This entailed removing rows with null values and outliers and replacing other null values in columns:
 ![alt text](image.png)
 ![alt text](image-1.png)
