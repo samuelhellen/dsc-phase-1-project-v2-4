@@ -18,7 +18,9 @@ The Numbers provides comprehensive records spanning from 1915 to 2020, detailing
 3.DATA ANALYSIS
 
 To ensure quality of our analysis the data had to be cleaned.This entailed removing rows with null values and outliers and replacing other null values in columns:
+
 ![alt text](image.png)
+
 ![alt text](image-1.png)
 The above graphs show relationship between the domestic and foreign gross
 ![alt text](image-2.png)
