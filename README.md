@@ -25,17 +25,27 @@ To ensure quality of our analysis the data had to be cleaned.This entailed remov
 The above graphs show relationship between the domestic and foreign gross
 ![alt text](image-2.png)
 The graph shows the most common genres with the highest ratings
+
 Conclusion:
 
-Three Business Recommendations:
-My three business recommendations to Microsoft Studios would be:
 
 Focus on making films that are a combination of Drama, comedy and action. 
 
 Make the movie somewhere within 120-150 minutes long since movies in this range tend to make the most net profit on average with the most consistency.
 
 Analysis shows that spending a minimum of 80 million dollars will have a high chance of bringing back a positive return on investment
-NEXT STEPS
+
+Recommendations
+
+Look at reviews as they shed light on aspects like storytelling, acting, directing, or unique elements that resonated with critics.
+
+Focus on story and execution as they are more crucial for a movie's success than just a high budget.
+
+Consider the genre and target audience.
+
+
+If a specific language consistently shows higher popularity, consider prioritizing co-productions or films in that language. For example english.
+
 
 Further data and analysis can help Microsoft narrow down their decision making.
 
