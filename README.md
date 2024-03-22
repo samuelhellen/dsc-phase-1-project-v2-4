@@ -28,7 +28,7 @@ The above graphs show relationship between the domestic and foreign gross
 The graph shows the most common genres with the highest ratings
 
 
-Conclusion:
+CONCLUSIONS:
 
 
 Focus on making films that are a combination of Drama, comedy and action. 
@@ -37,7 +37,7 @@ Make the movie somewhere within 120-150 minutes long since movies in this range 
 
 Analysis shows that spending a minimum of 80 million dollars will have a high chance of bringing back a positive return on investment
 
-Recommendations
+RECOMMENDATION
 
 Look at reviews as they shed light on aspects like storytelling, acting, directing, or unique elements that resonated with critics.
 
