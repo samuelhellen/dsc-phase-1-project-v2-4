@@ -7,6 +7,7 @@ Microsoft has enlisted my services as a data scientist to help them identify whi
 BUSINESS UNDERSTANDING
 
 Understanding what movies have made the highest gross  worldwide, have the highest rating amongst fans and critics alike and the most popular genres from a profitability and review standpoint will provide Microsoft with the insight to direct resources to creating the best content possible.
+
 DATA UNDERSTANDING
 
 IMDB is one of the largest database for information relating to movies and TV series that includes information about the cast, crew, plot summaries, rating and reviews both critcal and fan-based. Each review has a unique ID associated to the movie details and the ratings. The data files provides information on the studio that created the movie, the running time, the year it was released and genre.
