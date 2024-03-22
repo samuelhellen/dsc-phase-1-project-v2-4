@@ -26,6 +26,7 @@ The above graphs show relationship between the domestic and foreign gross
 ![alt text](image-2.png)
 The graph shows the most common genres with the highest ratings
 
+
 Conclusion:
 
 
